@@ -1,0 +1,16 @@
+customer_id,gender,senior_citizen,partner,tenure_months,contract_type,payment_method,monthly_charges,total_charges,churn
+C001,Female,No,Yes,12,Month-to-month,Electronic check,75,900,Yes
+C002,Male,No,No,24,One year,Credit card,55,1320,No
+C003,Female,Yes,No,5,Month-to-month,Electronic check,90,450,Yes
+C004,Male,No,Yes,36,Two year,Bank transfer,60,2160,No
+C005,Female,No,No,8,Month-to-month,Mailed check,70,560,Yes
+C006,Male,Yes,Yes,48,Two year,Credit card,85,4080,No
+C007,Female,No,Yes,18,One year,Bank transfer,65,1170,No
+C008,Male,No,No,3,Month-to-month,Electronic check,95,285,Yes
+C009,Female,Yes,No,30,One year,Credit card,80,2400,No
+C010,Male,No,Yes,6,Month-to-month,Electronic check,88,528,Yes
+C011,Female,No,No,42,Two year,Bank transfer,58,2436,No
+C012,Male,Yes,No,10,Month-to-month,Mailed check,78,780,Yes
+C013,Female,No,Yes,60,Two year,Credit card,72,4320,No
+C014,Male,No,No,15,Month-to-month,Electronic check,82,1230,Yes
+C015,Female,Yes,Yes,28,One year,Bank transfer,67,1876,No
