@@ -55,3 +55,6 @@ A basic machine learning model can be used to predict whether a customer is like
 
 ## Project Outcome
 This project demonstrates how data analytics and machine learning can help businesses reduce customer churn and improve customer retention.
+## Dashboard Screenshot
+
+![Customer Churn Dashboard](customer_churn_dashboard.png)
